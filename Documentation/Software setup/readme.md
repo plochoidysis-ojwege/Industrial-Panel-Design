@@ -37,5 +37,3 @@ This document outlines the necessary software and tools required for effective i
 
 ### Conclusion
 Having the right software and tools in place is crucial for successful industrial panel design. Follow the installation and configuration steps to ensure a productive working environment.
-### Troubleshooting
-- If you encounter issues during installation, refer to the software's official documentation or support forums.
