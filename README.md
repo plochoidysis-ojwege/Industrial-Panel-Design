@@ -70,7 +70,7 @@ Additional Instructions:
 - Ensure you have the necessary software to view/edit the files.
 - Follow any prerequisites mentioned in the respective directories.
 ## Contribution / Feedback
-Any feedback or contributions are welcome. Please feel free to reach out with suggestions or improvements though the [issues page](https://github.com/yourusername/yourrepository/issues).
+Any feedback or contributions are welcome. Please feel free to reach out with suggestions or improvements though the [issues page](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/issues)
 
 ## License
 MIT License (MIT) - see the [LICENSE](LICENSE) file for details.
