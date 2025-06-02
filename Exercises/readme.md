@@ -1,5 +1,4 @@
 # Exercises
-
 This directory houses smaller, focused tasks and assignments undertaken during the training in industrial panel design. Each exercise is designed to enhance specific skills and build practical knowledge in the field.
 
 For each exercise, you will find:
