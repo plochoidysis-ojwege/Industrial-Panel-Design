@@ -30,12 +30,15 @@ This portfolio is designed to provide a structured overview of my work in indust
 ### Objectives and Scope
 - **Objective:** 
   - To gain solid, practical skills in industrial panel design and electrical control systems.
-  - To master the use of EPLAN software (EPLAN Electric P8, Fusion 360, EPLAN Pro Panel) as a powerful industry tool for efficient design documentation (schematics, layouts, BOMs).
-  - To fulfill the requirements of my industrial attachment, as approved by Mr. Valentine Siyoi.
-  - As an Electrical and Electronics (Telecom Major) student, to broaden my understanding of industrial automation, bridge theoretical knowledge with practical application, and explore the convergence of telecom and industrial control systems.
-  - To build a comprehensive portfolio of design projects and practical work, showcasing acquired skills and problem-solving abilities in a real-world industrial context.
-- **Scope:** Describe the range of materials covered including design projects, documentation, and related resources.
+  - To master the use of EPLAN software (EPLAN Electric P8, Fusion 360, EPLAN Pro Panel) as a powerful industry tool for efficient design documentation (schematics, layouts, BOMs)
 
+  - To bridge theoretical knowledge with practical application, and explore the convergence of telecom and industrial control systems.
+  - To build a comprehensive portfolio of design projects and practical work, showcasing acquired skills and problem-solving abilities in a real-world industrial context.
+- **Scope:**
+  - It covers from the fundamentals of engineering design e.g design principles and introduction to electrical power and control equipment such as MCCB's relay, contactors , timers e.t.c. Includes troubleshooting, fault finding, maintenance and system tests.
+  -  Design software introduction(ECAD); software setup, installation and callibration, using it to create single line diagrams(SLD),multiple line diagrams(MLD),layouts,parts management and macros
+  -  Engineering Systems Design (case studies); interpretation of electrical schematics, power and protection design, controls design(both descrete and controller-PLC).Includes working with power schematic circuits(motor starters , PLCs, change-overs , PFC, etc). One case study here is to design a project that mitigates energy loss in the Multimedia University of Kenya)
+  -  Practical sessions; Involves electrical and control assembly resources (cct breakers , contactors,relays, PLCs, cables , terminal blocks) provided by ISA Automation , and metal works and fabrication resources (metal sheet , welding machines ,electrical assembly materrials) provided by Bontec Innovation Ltd.. Dropbox draughtsman contributes documentation(layouts,schematics and Bill of Materials) and design software EPLAN Electric P8, Fusion 360, and EPLAN Pro panel.
 
 
 ## Workspace Structure
