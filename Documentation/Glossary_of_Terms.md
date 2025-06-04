@@ -5,9 +5,16 @@ This document contains a growing list of industry-specific terms and acronyms en
 ## Terms and Definitions
 - **EPLAN:**
   A software tool used for electrical design and documentation, widely adopted in the industry for creating schematics, layouts, and control panel designs.
-
+- **MCB (Miniature Circuit Breaker):**
+ An electromechanical device that protects an electrical circuit from overcurrent, often used in domestic and small commercial applications.
 - **MCCB (Molded Case Circuit Breaker):**  
   A protective device designed to interrupt current flow when an overload or short circuit occurs, commonly used in industrial and commercial electrical systems.
+- **CT (Current Transformer):**
+A type of transformer used to measure Alternating Current(AC)
+- **kVA (kilo-Volt-Ampere):**
+Unit for apparent power, commonly used for rating generators and transformers.
+- **Macros (EPLAN):**
+Reusable blocks of schematics, panels, or logic in EPLAN that can be inserted into multiple projects to save time and ensure consistency.
 
 - **RCD (Residual Current Device):**  
   A safety device that detects imbalances between live and neutral currents (earth leakage) and disconnects the circuit to prevent electric shocks.
