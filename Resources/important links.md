@@ -22,6 +22,7 @@ This document provides links to essential online resources relevant to industria
 - [AutomationDirect](https://www.automationdirect.com/)
 
 ## Online Resources for Electrical Engineering, Automation, & Control Systems
+-  [kVA to Amp Calculator e.t.c (RapidTables)](https://www.rapidtables.com/calc/electric/kVA_to_Amp_Calculator.html)
 - [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/)
 - [All About Circuits](https://www.allaboutcircuits.com/)
 - [Automation.com](https://www.automation.com/)
