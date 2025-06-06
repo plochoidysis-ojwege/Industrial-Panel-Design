@@ -5,7 +5,7 @@ Welcome to the Documentation section of the Industrial Panel Design Portfolio. T
 
 ## Contents
 
--- **[Session Notes](./Session%20notes/):**  
+- **[Session Notes](./Session%20notes/):**  
   Records of meetings and design discussions.
 
 - **[Software Setup](./Software%20setup/):**  
