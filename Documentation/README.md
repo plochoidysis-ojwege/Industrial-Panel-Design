@@ -17,8 +17,8 @@ Welcome to the Documentation section of the Industrial Panel Design Portfolio. T
 - **[Glossary of Terms](./Glossary_of_Terms.md):**
   Definitions of industry-specific terms and acronyms used throughout the portfolio.
 
-- **[Important Links](./important.links.md):**
-  Key repository links and additional resources.
+- **[Important Links](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Resources/important%20links.md):**
+  Key links and additional resources.
 
 ## How to Use This Documentation
 
