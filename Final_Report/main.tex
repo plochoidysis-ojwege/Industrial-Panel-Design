@@ -1,44 +1,52 @@
 \documentclass{report} 
-
-\usepackage[utf8]{inputenc} % For international characters
+\usepackage[utf8]{inputenc}
 \usepackage{graphicx}       
-\usepackage{amsmath}        % For advanced math equations
-\usepackage{amsfonts}       % For mathematical symbols
-\usepackage{amssymb}        % For additional symbols
-\usepackage{hyperref}       % For clickable links and table of contents entries
-\usepackage{caption}        % For better control over figure/table captions
+\usepackage{amsmath}       
+\usepackage{amsfonts}       
+\usepackage{amssymb}      
+\usepackage{hyperref}       
+\usepackage{caption}        
 \usepackage{subcaption}     
-\usepackage{booktabs}       % For professional-looking tables
+\usepackage{booktabs}      
 \usepackage{siunitx}        
 \usepackage{enumitem}       
 \usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry} 
+\usepackage{fancyhdr}
+\usepackage{glossaries}
+
+\pagestyle{fancy}
+\fancyhead[L]{Industrial Panel Design Portfolio}
+\fancyhead[R]{\thepage}
+\fancyfoot[C]{Multimedia University}
 
 \title{Industrial Panel Design and Automation Systems: An Attachment Report on EPLAN-Driven Electrical and Control Engineering}
 \author{Denzel Onyango Ninga \\ ENG-219-042/2022 \\ Multimedia University (MMU)}
 \date{\today} 
 
-% --- Document Start ---
+
 \begin{document}
 
 \maketitle % Displays the title page
 
-% --- Abstract ---
+
 \begin{abstract}
     This report details the industrial attachment experience in industrial panel design and automation systems, with a focus on mastering EPLAN software. Covers fundamental electrical engineering principles, design software applications, practical case studies, and hands-on assembly insights gained during the training program with Engineer Edgar and the collaborating entities. The attachment served to bridge theoretical knowledge with practical skills essential for electrical and electronics engineering professionals.
 \end{abstract}
 
-\clearpage % Start new page for Table of Contents
+\clearpage 
+\pagenumbering{roman} % Roman numerals for preliminary pages
+\setcounter{page}{1} % Reset page number for preliminary pages
+\chapter*{Acknowledgements} % Unnumbered chapter for acknowledgements
+I would like to express my sincere gratitude to Engineer Edgar for his invaluable mentorship and guidance throughout my industrial attachment. His expertise in EPLAN software and practical insights into electrical engineering have significantly enhanced my understanding and skills in the field. I also extend my appreciation to the entire team at [Company/Organization Name] for their support and collaboration during this learning experience.
 \tableofcontents % Generates the Table of Contents
 \clearpage % Start new page for List of Figures
 \listoffigures % Generates the List of Figures
 \clearpage % Start new page for List of Tables
 \listoftables % Generates the List of Tables
 
-% --- Main Content Chapters (using \input to include your separate .tex files) ---
+% Main Content Chapters 
 
-% Make sure the paths are correct (e.g., if you have them in a 'sections' subfolder)
-% If your .tex files are directly in the same folder as main.tex, you don't need 'sections/'
-% Based on your screenshot, they appear to be in the same root level as main.tex, so no 'sections/' prefix is needed here initially.
+
 \input{introduction.tex}
 \input{fundamentals.tex}
 \input{software_documentation.tex}
@@ -46,17 +54,16 @@
 \input{practicals.tex}
 \input{conclusion.tex}
 
-% --- Bibliography ---
-\clearpage
-\bibliographystyle{plain} % This is a common basic style, you can choose others like 'IEEEtran' for engineering
-\bibliography{references} % Points to your references.bib file
 
-% --- Appendices (Optional) ---
-% Uncomment and create these files if you decide to add appendices
-% \appendix
-% \chapter{Appendix A: Bill of Materials}
-% \input{appendices/bom.tex}
-% \chapter{Appendix B: Detailed Calculations}
-% \input{appendices/calculations.tex}
+\clearpage
+\bibliographystyle{IEEEtran} 
+\bibliography{references} % Include the references.bib file
+
+\appendix
+
+ \chapter{Appendix A: Bill of Materials}
+ \input{appendices/bom.tex}
+ \chapter{Appendix B: Detailed Calculations}
+ \input{appendices/calculations.tex}
 
 \end{document}
