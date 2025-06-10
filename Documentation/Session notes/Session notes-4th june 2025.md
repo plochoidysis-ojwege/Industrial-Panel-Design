@@ -25,10 +25,10 @@ At this point ,a proposal was made for a sample project. That was inspired by th
 
 4. **Diagrams & Schematics:**  
    - Sample SLD Diagram:  
-     ![sld](https://github.com/user-attachments/assets/49133074-4caa-4a0a-b047-adf718d54625)
+     ![sld]([https://github.com/user-attachments/assets/49133074-4caa-4a0a-b047-adf718d54625](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/mld.jpg))
 
    - Sample MLD Diagram:  
-   ![mld](https://github.com/user-attachments/assets/9b87050e-d58d-40ac-a449-1918fa21ed1a)
+   ![mld](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/mld.jpg)
 
 5. **Technical Discussions:** 
    - Differences between MCB and MCCB
