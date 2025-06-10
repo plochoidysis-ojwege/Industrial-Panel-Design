@@ -25,7 +25,7 @@ At this point ,a proposal was made for a sample project. That was inspired by th
 
 4. **Diagrams & Schematics:**  
    - Sample SLD Diagram:  
-     ![sld]([https://github.com/user-attachments/assets/49133074-4caa-4a0a-b047-adf718d54625](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/mld.jpg))
+     ![sld](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/sld.png)
 
    - Sample MLD Diagram:  
    ![mld](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/mld.jpg)
