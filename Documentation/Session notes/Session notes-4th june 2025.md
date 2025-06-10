@@ -33,5 +33,5 @@ At this point ,a proposal was made for a sample project. That was inspired by th
 5. **Technical Discussions:** 
    - Differences between MCB and MCCB
    - What makes motors rotate (or not) in two phases
-   - Generator ratings in kVA and conversion using rapid tables  
+   - Generator ratings in kVA and conversion using [rapid tables](https://www.rapidtables.com/calc/electric/kVA_to_Amp_Calculator.html) 
    - [Summary of key engineering standards](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/tree/main/Resources/Standards_Excerpts)
