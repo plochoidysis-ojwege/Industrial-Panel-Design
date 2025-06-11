@@ -6,7 +6,7 @@ This document contains useful tips and tricks for using EPLAN software effective
 ## Tips
 - **Keyboard Shortcuts:** Familiarize yourself with keyboard shortcuts to speed up your workflow.
    - Esc-cancel action
-   - Tab-used to retote a symbol to face the direction of use .
+   - Tab-used to rotate a symbol to face the direction of use .
    - Ctrl+B - used when moving a text that is next to a symbol, it literally allows you to be able to move the text to anywhere you     wnat after clicking it when the text is selected.
    - Ctrl+X - cut out.
    - Ctrl+ Y -restores the lat step.
