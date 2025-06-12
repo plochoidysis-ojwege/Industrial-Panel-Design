@@ -31,8 +31,16 @@ Reusable blocks of schematics, panels, or logic in EPLAN that can be inserted in
 - **MLD (Multi-Line Diagram):**  
   A detailed diagram showing electrical circuits with multiple lines to represent different phases or components, providing an in-depth view of complex systems.
 
-- **BOM (Bill of Materials):**  
+- **BOM (Bill of Materials)/Bill of Quantity(B.O.Q):**  
   A comprehensive list detailing all the components, parts, and materials required for building a product, including quantities and specifications.
 
 - **PFC (Power Factor Correction):**  
   Techniques or equipment used to adjust the power factor of electrical systems, ensuring efficient energy usage by reducing the phase difference between voltage and current.
+- **MDB (Main distribution board):**
+This is the main distribution board just as the name suggest.The main supplier of power to everything
+
+- **SMDB (sub main distribution board):**
+Sub man distribution board,receives from the main distribution board.
+
+- **Sub-db (sub distribution board):**
+Sub distribution board.
