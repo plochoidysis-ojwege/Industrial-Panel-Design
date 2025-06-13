@@ -1,1 +1,0 @@
-Certificates and credentials related to my industrial panel design training and projects are stored in this directory.

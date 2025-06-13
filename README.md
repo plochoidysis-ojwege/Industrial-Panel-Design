@@ -6,7 +6,6 @@ This repository serves as a comprehensive portfolio showcasing my work in indust
 - [Overview](#overview)
 - [Portfolio Overview](#portfolio-overview)
 - [Workspace Structure](#workspace-structure)
-  - [Certificates](./Certificates/)
   - [Documentation](#documentation)
     - [Projects](./Documentation/Projects/)
     - [Session Notes](./Documentation/Session%20notes/)
@@ -57,12 +56,21 @@ Summary of the key directories with a brief explanation of each:
   - *Project_2_PLC_Control_Design* – PLC control design details.
 - **Resources/** – Additional materials such as:
   - *Component_Datasheets/* – Datasheets for relevant components.
+  - *EPLAN_Tips_and_Tricks.md* – Tips and tricks for using EPLAN software effectively.
+  - *Glossary_of_Terms.md* – Definitions of key terms used in the portfolio.
+  - *Important_Links.md* – Links to essential online resources relevant to industrial panel design, electrical engineering, automation, and control systems.
+
+  ## Getting Started
+1. Review the [Session Notes](./Documentation/Session%20notes/) for detailed insights into each session.
+2. Explore the [Research Topics](./Documentation/Session%20notes/Research%20Topics.md) for areas requiring further study.
+3. Refer to the [Final Report](./Final_Report/main.tex) for a comprehensive summary of the project.
+4. Check the [Resources](./Resources/) directory for useful links and references.
 
 ## How to Use
 
 To navigate the portfolio easily, use these links to jump directly to specific sections of the repository:
 
-- [Certificates](./Certificates/)
+
 - [Documentation](./Documentation/)
 - [Exercises](./Exercises/)
 - [Final_Report](./Final_Report/)
