@@ -5,7 +5,14 @@ This document contains useful tips and tricks for using EPLAN software effective
 
 ## Tips
 - **Keyboard Shortcuts:** Familiarize yourself with keyboard shortcuts to speed up your workflow.
+   - Esc-cancel action
+   - Tab-used to rotate a symbol to face the direction of use .
+   - Ctrl+B - used when moving a text that is next to a symbol, it literally allows you to be able to move the text to anywhere you     wnat after clicking it when the text is selected.
+   - Ctrl+X - cut out.
+   - Ctrl+ Y -restores the lat step.
+   - T- text
 - **Templates:** Use templates for common designs to save time and ensure consistency.
+    - In most of the panels I designed , I used the *Dropbox draughtsman template*, it's fair enough. Consider using a templete
 - **Layer Management:** Organize your drawings using layers to improve clarity and ease of editing.
 - **Component Libraries:** Utilize EPLAN's component libraries to quickly find and insert standard parts.
 - **Documentation:** Keep your documentation up to date to facilitate collaboration and future reference.

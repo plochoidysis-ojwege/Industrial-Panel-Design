@@ -16,6 +16,7 @@ This document provides links to essential online resources relevant to industria
 - [Rockwell Automation](https://www.rockwellautomation.com/)
 
 ## Industry Blogs & YouTube Channels
+- [Bee Automation YouTube Channel](https://www.youtube.com/@beeautomation)
 - [Electrical Engineering Portal](https://electrical-engineering-portal.com/)
 - [The Engineering Mindset (YouTube)](https://www.youtube.com/channel/UCnko0gaOt9zvJ3I2C4SSw0Q)
 - [Control Engineering](https://www.controleng.com/)

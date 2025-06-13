@@ -25,13 +25,13 @@ At this point ,a proposal was made for a sample project. That was inspired by th
 
 4. **Diagrams & Schematics:**  
    - Sample SLD Diagram:  
-     ![sld](https://github.com/user-attachments/assets/49133074-4caa-4a0a-b047-adf718d54625)
+     ![sld](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/sld.png)
 
    - Sample MLD Diagram:  
-   ![mld](https://github.com/user-attachments/assets/9b87050e-d58d-40ac-a449-1918fa21ed1a)
+   ![mld](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/mld.jpg)
 
 5. **Technical Discussions:** 
    - Differences between MCB and MCCB
    - What makes motors rotate (or not) in two phases
-   - Generator ratings in kVA and conversion using rapid tables  
+   - Generator ratings in kVA and conversion using [rapid tables](https://www.rapidtables.com/calc/electric/kVA_to_Amp_Calculator.html) 
    - [Summary of key engineering standards](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/tree/main/Resources/Standards_Excerpts)
