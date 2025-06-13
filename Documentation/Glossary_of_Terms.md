@@ -31,7 +31,7 @@ Reusable blocks of schematics, panels, or logic in EPLAN that can be inserted in
 - **MLD (Multi-Line Diagram):**  
   A detailed diagram showing electrical circuits with multiple lines to represent different phases or components, providing an in-depth view of complex systems.
 
-- **BOM (Bill of Materials):**  
+- **BOM (Bill of Materials)/Bill of Quantity(B.O.Q):**  
   A comprehensive list detailing all the components, parts, and materials required for building a product, including quantities and specifications.
 
 - **PFC (Power Factor Correction):**  
