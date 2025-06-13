@@ -6,4 +6,4 @@ In this directory, you will find session notes documenting the progress and disc
 - [Session Notes - 10th June 2025](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/Session%20notes/Session%20Notes-10th%20June%202025.md)
 - [Session Notes - 11th June 2025]()
 - [Session Notes - 12th June 2025](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/Session%20notes/Session%20Notes-12th%20June%202025.md)
-- [Session Notes - 13th June 2025]()
+- [Session Notes - 13th June 2025](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/Session%20notes/Session%20Notes-13th%20June%202025.md)
