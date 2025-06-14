@@ -1,7 +1,7 @@
-# Industrial Panel Design Portfolio
+# Industrial Panel Design
 
 ## Overview
-This repository serves as a comprehensive portfolio showcasing my work in industrial panel design. It includes various projects, documentation, and resources that highlight my skills and experience in this field.
+In this repository is a comprehensive portfolio showcasing my work in industrial panel design. It includes various projects, documentation, and resources that highlight my skills and experience in this field.
 ## Table of Contents
 - [Overview](#overview)
 - [Portfolio Overview](#portfolio-overview)
