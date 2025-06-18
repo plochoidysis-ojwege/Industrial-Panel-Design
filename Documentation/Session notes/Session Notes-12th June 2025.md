@@ -15,7 +15,7 @@ This session introduced a practical project on water tank level control systems 
      - Controller: Processes signals and activates pumps/valves.
      - Pumps/Valves: Adjust water levels based on sensor input.
    - **Power Flow Diagram:**
-     - ![Water Tank Control Diagram](./IMG_20250612_094029_camara.jpg)
+     - ![Water Tank Control Diagram](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/MMU%20faculty%20of%20Engineering%20power%20flow%20diagram.png)
 
 2. **Power Distribution Hierarchy:**
    - **Main Distribution Board (MDB):**
