@@ -42,7 +42,7 @@ This portfolio is designed to provide a structured overview of my work in indust
 
 ## Workspace Structure
 Summary of the key directories with a brief explanation of each:
-- **Certificates/** – Contains a certificate of completion for relevant training programs.
+
 - **Documentation/** – Includes office documentation such as:
   - *Projects* – Project overviews and detailed documentation.
   - *Session notes* – Records of meetings or work sessions.

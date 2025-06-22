@@ -38,3 +38,5 @@ Reusable blocks of schematics, panels, or logic in EPLAN that can be inserted in
   Techniques or equipment used to adjust the power factor of electrical systems, ensuring efficient energy usage by reducing the phase difference between voltage and current.
 - **RMS Voltage:** The effective value of an AC voltage, equivalent to the DC voltage that would produce the same power.
 - **Power Factor (cos φ):** The ratio of real power (kW) to apparent power (kVA), indicating the efficiency of power usage.
+- **PIR (Passive Infrared Sensor):**  
+  A sensor that detects motion by measuring changes in infrared radiation, commonly used in security systems and automatic lighting.
