@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Object identification" id="2000" index="0" type="7">23/14/1/0</Property>
+ <Property name="Object identification" id="2000" index="0" type="7">56/14/1/0</Property>
  <Property name="Last editor: ID" id="3010" index="0" type="7"/>
  <Property name="Last editor: Name" id="3011" index="0" type="7"/>
  <Property name="Last editor: Phone" id="3012" index="0" type="7"/>
@@ -23,16 +23,16 @@
  <Property name="Creator" id="10020" index="0" type="7">USER</Property>
  <Property name="Creation date" id="10021" index="0" type="14">1749667945</Property>
  <Property name="Last editor: Sign-in name" id="10022" index="0" type="7">USER</Property>
- <Property name="Modification date" id="10023" index="0" type="14">1750248462</Property>
+ <Property name="Modification date" id="10023" index="0" type="14">1750339483</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="14">1714577122</Property>
- <Property name="Date" id="10027" index="0" type="14">1750249818</Property>
+ <Property name="Date" id="10027" index="0" type="14">1750440354</Property>
  <Property name="Project start" id="10028" index="0" type="14">1749668040</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Last EPLAN version used" id="10043" index="0" type="7">2022.0.3</Property>
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">17561</Property>
  <Property name="Project path (full)" id="10045" index="0" type="7">C:\Users\user\Documents\GitHub\Industrial-Panel-Design-Portfolio\Projects\Projects\Project(structure of each)</Property>
  <Property name="Creation time" id="10046" index="0" type="7">9:52:25 PM</Property>
- <Property name="Modification time" id="10047" index="0" type="7">3:07:42 PM</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">4:24:43 PM</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">6:25:22 PM</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -41,7 +41,7 @@
  <Property name="Structure format for general devices" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for black boxes" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for PLC / bus technology" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Time of the day" id="10058" index="0" type="14">1750249818</Property>
+ <Property name="Time of the day" id="10058" index="0" type="14">1750440354</Property>
  <Property name="Structure format for terminal strips" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for plugs" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for cables" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -145,13 +145,13 @@
  <Property name="Unique project ID" id="10184" index="0" type="7">Dropbox Draughtsman -2024 - R2@1749668030</Property>
  <Property name="License number of dongle" id="10185" index="0" type="7">CHAOS363</Property>
  <Property name="Number of pages per page type" id="10200" index="1" type="4">4</Property>
- <Property name="Number of pages per page type" id="10200" index="2" type="4">2</Property>
+ <Property name="Number of pages per page type" id="10200" index="2" type="4">4</Property>
  <Property name="Number of pages per page type" id="10200" index="3" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="4" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="5" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="6" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="7" type="4">0</Property>
- <Property name="Number of pages per page type" id="10200" index="8" type="4">3</Property>
+ <Property name="Number of pages per page type" id="10200" index="8" type="4">2</Property>
  <Property name="Number of pages per page type" id="10200" index="9" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="10" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="11" type="4">0</Property>
@@ -208,13 +208,13 @@
  <Property name="Number of pages per page type" id="10200" index="62" type="4">0</Property>
  <Property name="Number of pages per page type" id="10200" index="63" type="4">0</Property>
  <Property name="Last modification date per page type" id="10250" index="1" type="14">1676359651</Property>
- <Property name="Last modification date per page type" id="10250" index="2" type="14">1749836021</Property>
+ <Property name="Last modification date per page type" id="10250" index="2" type="14">1750332416</Property>
  <Property name="Last modification date per page type" id="10250" index="3" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="4" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="5" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="6" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="7" type="14"/>
- <Property name="Last modification date per page type" id="10250" index="8" type="14">1750242856</Property>
+ <Property name="Last modification date per page type" id="10250" index="8" type="14">1750250955</Property>
  <Property name="Last modification date per page type" id="10250" index="9" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="10" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="11" type="14"/>
@@ -271,13 +271,13 @@
  <Property name="Last modification date per page type" id="10250" index="62" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="63" type="14"/>
  <Property name="Last modification time per page type" id="10251" index="1" type="7">10:27:31 AM</Property>
- <Property name="Last modification time per page type" id="10251" index="2" type="7">8:33:41 PM</Property>
+ <Property name="Last modification time per page type" id="10251" index="2" type="7">2:26:56 PM</Property>
  <Property name="Last modification time per page type" id="10251" index="3" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="4" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="5" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="6" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="7" type="7"/>
- <Property name="Last modification time per page type" id="10251" index="8" type="7">1:34:16 PM</Property>
+ <Property name="Last modification time per page type" id="10251" index="8" type="7">3:49:15 PM</Property>
  <Property name="Last modification time per page type" id="10251" index="9" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="10" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="11" type="7"/>
@@ -320,8 +320,8 @@
  <Property name="Last modification time per page type" id="10251" index="48" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="49" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="50" type="7"/>
- <Property name="Total no. of pages" id="10300" index="0" type="4">12</Property>
- <Property name="Created pages" id="10301" index="0" type="4">9</Property>
+ <Property name="Total no. of pages" id="10300" index="0" type="4">13</Property>
+ <Property name="Created pages" id="10301" index="0" type="4">10</Property>
  <Property name="Generated report pages" id="10302" index="0" type="4">3</Property>
  <Property name="Project status" id="10303" index="0" type="7">11&#9;1&#9;Terminals&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;2&#9;Plugs&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;3&#9;Cables&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;4&#9;PLC / bus&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;5&#9;Connections&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;7&#9;Devices&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;8&#9;Foreign languages&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;10&#9;Cross-references&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;11&#9;Interruption points&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;12&#9;2D panel layout&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Parts data&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Macro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Reports&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;16&#9;Black boxes&#9;1716280749&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;17&#9;DT&#9;1716280750&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;18&#9;Data transfer EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Data transfer EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Project comparison&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Placeholder objects&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Other&#9;1716280750&#9;2022.0.3.17885&#9;Standard&#9;0&#9;0&#9;0&#9;24&#9;Fluid power&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Project settings&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;3D mounting layout&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topology&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Pre-planning &#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Pre-planning depth&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Subprojects&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Drilling pattern&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Wire harness&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Part master data&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;External&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
  <Property name="Number of layout spaces" id="10304" index="0" type="4">0</Property>
@@ -358,36 +358,100 @@
  <Property name="Type of project" id="10902" index="0" type="4">1</Property>
  <Property name="Internal: Number of repair processes of the project object" id="10904" index="0" type="4">0</Property>
  <Property name="Revision marker format (change tracking)" id="19031" index="0" type="7"/>
- <Property name="User supplementary field 1" id="40001" index="0" type="15">??_??@1;</Property>
- <Property name="User supplementary field 2" id="40002" index="0" type="15">??_??@6 kA;</Property>
- <Property name="User supplementary field 3" id="40003" index="0" type="15">??_??@125 A;</Property>
- <Property name="User supplementary field 4" id="40004" index="0" type="15">??_??@TOP/ TOP;</Property>
- <Property name="User supplementary field 5" id="40005" index="0" type="15">??_??@690 V;</Property>
- <Property name="User supplementary field 6" id="40006" index="0" type="15">??_??@ mm;</Property>
- <Property name="User supplementary field 7" id="40007" index="0" type="15">??_??@IP 64;</Property>
- <Property name="User supplementary field 8" id="40008" index="0" type="15">??_??@TN-S;</Property>
- <Property name="User supplementary field 9" id="40009" index="0" type="15">??_??@FFF;</Property>
- <Property name="User supplementary field 10" id="40010" index="0" type="15">??_??@0.7 ;</Property>
- <Property name="User supplementary field 11" id="40011" index="0" type="15">??_??@CIRCUIT BREAKER;</Property>
- <Property name="User supplementary field 12" id="40012" index="0" type="15">??_??@OUTDOOR;</Property>
- <Property name="User supplementary field 13" id="40013" index="0" type="15">??_??@BUSBAR SIZE;</Property>
- <Property name="User supplementary field 14" id="40014" index="0" type="15">??_??@SINGLE CUBICLE;</Property>
- <Property name="User supplementary field 15" id="40015" index="0" type="15">??_??@WEIGHT;</Property>
- <Property name="User supplementary field 16" id="40016" index="0" type="15">??_??@3;</Property>
- <Property name="User supplementary field 17" id="40017" index="0" type="15">??_??@STATIONARY;</Property>
- <Property name="User supplementary field 18" id="40018" index="0" type="15">??_??@6 kV;</Property>
- <Property name="User supplementary field 19" id="40019" index="0" type="15">en_US@1000 V;de_DE@1000 V;es_ES@1000 V;fr_FR@1000 V;nl_NL@1000 V;sv_SE@1000 V;da_DK@1000 V;ru_RU@1000 В;zh_CN@1000 V;pl_PL@1000 V;pt_BR@1000 V;cs_CZ@1000 V;it_IT@1000 V;hu_HU@1000 V;pt_PT@1000 V;ko_KR@1000 V;ja_JP@1000 V;tr_TR@1000 V;ro_RO@1000 V;</Property>
- <Property name="User supplementary field 20" id="40020" index="0" type="15">??_??@RAL 7035;</Property>
- <Property name="User supplementary field 21" id="40021" index="0" type="15">??_??@6 kA/1 sec;</Property>
- <Property name="User supplementary field 22" id="40022" index="0" type="15">en_US@240 V;de_DE@240 V;es_ES@240 V;fr_FR@240 V;nl_NL@240 V;sv_SE@240 V;da_DK@240 V;ru_RU@240 В;zh_CN@240 V;pl_PL@240 V;pt_BR@240 V;cs_CZ@240 V;it_IT@240 V;hu_HU@240 V;pt_PT@240 V;ko_KR@240 V;ja_JP@240 V;tr_TR@240 V;ro_RO@240 V;</Property>
- <Property name="User supplementary field 23" id="40023" index="0" type="15">en_US@415 V;de_DE@415 V;es_ES@415 V;fr_FR@415 V;nl_NL@415 V;sv_SE@415 V;da_DK@415 V;ru_RU@415 В;zh_CN@415 V;pl_PL@415 V;pt_BR@415 V;cs_CZ@415 V;it_IT@415 V;hu_HU@415 V;pt_PT@415 V;ko_KR@415 V;ja_JP@415 V;tr_TR@415 V;ro_RO@415 V;</Property>
+ <Property name="FORM OF SEPARATION" id="40001" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField1" category="1" displaytype="5201">??_??@1;</Property>
+ <Property name="FAULT LEVEL" id="40002" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField2" category="1" displaytype="9000">??_??@6 kA;</Property>
+ <Property name="RATED CURRENT" id="40003" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField3" category="1" displaytype="9000">??_??@125 A;</Property>
+ <Property name="CABLE ENTRY/EXIT" id="40004" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField4" category="1" displaytype="5000">??_??@TOP/ TOP;</Property>
+ <Property name="RATED OPERATIONAL VOLTAGE" id="40005" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField5" category="1" displaytype="5201">??_??@690 V;</Property>
+ <Property name="DIMENSIONS" id="40006" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField6" category="1" displaytype="9000">??_??@ mm;</Property>
+ <Property name="DEGREE OF PROTECTION" id="40007" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField7" category="1" displaytype="5201">??_??@IP 64;</Property>
+ <Property name="TYPE OF EARTH" id="40008" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField8" category="1" displaytype="5201">??_??@TN-S;</Property>
+ <Property name="ELECTRICAL CONNECTION OF FUNCTIONAL UNITS" id="40009" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField9" category="1" displaytype="9000">??_??@FFF;</Property>
+ <Property name="RATED DIVERSITY FACTOR" id="40010" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField10" category="1" displaytype="5201">??_??@0.7 ;</Property>
+ <Property name="NATURE OF SHORT CIRCUIT PROTECTIVE DEVICE" id="40011" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField11" category="1" displaytype="9000">??_??@CIRCUIT BREAKER;</Property>
+ <Property name="INDOOR/OUTDOOR" id="40012" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField12" category="1" displaytype="5000">??_??@OUTDOOR;</Property>
+ <Property name="BUSBAR SIZE" id="40013" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField13" category="1" displaytype="9000">??_??@BUSBAR SIZE;</Property>
+ <Property name="EXTERNAL DESIGN" id="40014" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField14" category="1" displaytype="5101">??_??@SINGLE CUBICLE;</Property>
+ <Property name="WEIGHT" id="40015" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField15" category="1" displaytype="9000">??_??@WEIGHT;</Property>
+ <Property name="POLLUTION DEGREE" id="40016" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField16" category="1" displaytype="5000">??_??@3;</Property>
+ <Property name="PORTABILITY" id="40017" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField17" category="1" displaytype="5000">??_??@STATIONARY;</Property>
+ <Property name="RATED IMPULSE WITHSTAND VOLTAGE" id="40018" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField18" category="1" displaytype="9000">??_??@6 kV;</Property>
+ <Property name="RATED INSULATION VOLTAGE" id="40019" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField19" category="1" displaytype="9000">en_US@1000 V;de_DE@1000 V;es_ES@1000 V;fr_FR@1000 V;nl_NL@1000 V;sv_SE@1000 V;da_DK@1000 V;ru_RU@1000 В;zh_CN@1000 V;pl_PL@1000 V;pt_BR@1000 V;cs_CZ@1000 V;it_IT@1000 V;hu_HU@1000 V;pt_PT@1000 V;ko_KR@1000 V;ja_JP@1000 V;tr_TR@1000 V;ro_RO@1000 V;</Property>
+ <Property name="PAINT COLOUR" id="40020" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField20" category="1" displaytype="9000">??_??@RAL 7035;</Property>
+ <Property name="FAULT LEVEL/1SEC" id="40021" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField21" category="1" displaytype="9000">??_??@6 kA/1 sec;</Property>
+ <Property name="CONTROL VOLTAGE" id="40022" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField22" category="1" displaytype="9000">en_US@240 V;de_DE@240 V;es_ES@240 V;fr_FR@240 V;nl_NL@240 V;sv_SE@240 V;da_DK@240 V;ru_RU@240 В;zh_CN@240 V;pl_PL@240 V;pt_BR@240 V;cs_CZ@240 V;it_IT@240 V;hu_HU@240 V;pt_PT@240 V;ko_KR@240 V;ja_JP@240 V;tr_TR@240 V;ro_RO@240 V;</Property>
+ <Property name="RATED VOLTAGE " id="40023" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField23" category="1" displaytype="9000">en_US@415 V;de_DE@415 V;es_ES@415 V;fr_FR@415 V;nl_NL@415 V;sv_SE@415 V;da_DK@415 V;ru_RU@415 В;zh_CN@415 V;pl_PL@415 V;pt_BR@415 V;cs_CZ@415 V;it_IT@415 V;hu_HU@415 V;pt_PT@415 V;ko_KR@415 V;ja_JP@415 V;tr_TR@415 V;ro_RO@415 V;</Property>
  <Property name="User supplementary field 24" id="40024" index="0" type="15">??_??@FIXED;</Property>
- <Property name="User supplementary field 25" id="40025" index="0" type="15">??_??@COPPER AND ALUMINIUM;</Property>
- <Property name="User supplementary field 26" id="40026" index="0" type="15">??_??@50 Hz;</Property>
+ <Property name="EXTERNAL CONDUCTOR MATERIAL" id="40025" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField25" category="1" displaytype="5101">??_??@COPPER AND ALUMINIUM;</Property>
+ <Property name="RATED FREQUENCY" id="40026" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField26" category="1" displaytype="9000">??_??@50 Hz;</Property>
  <Property name="User supplementary field 27" id="40027" index="0" type="15">??_??@B;</Property>
- <Property name="User supplementary field 28" id="40028" index="0" type="15">??_??@B;</Property>
- <Property name="User supplementary field 31" id="40031" index="0" type="15">??_??@APPROVAL;</Property>
- <Property name="User supplementary field 32" id="40032" index="0" type="15">??_??@A;</Property>
+ <Property name="EMC CLASSIFICATION" id="40028" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField28" category="1" displaytype="5000">??_??@B;</Property>
+ <Property name="REVISION FULL" id="40031" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField31" category="1" displaytype="5101">??_??@APPROVAL;</Property>
+ <Property name="REVISION SHORT" id="40032" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField32" category="1" displaytype="5201">??_??@A;</Property>
  <Property name="User supplementary field 33" id="40033" index="0" type="15">??_??@Manufacture of boards will not commence until approved drawings are received. Approval is required within 14 days of submission. Delays in approval of drawings and subsequent delays in manufacture will not be the responsiblity of Switchgear Ltd.;</Property>
- <Property name="User supplementary field 34" id="40034" index="0" type="15">??_??@KENYA;</Property>
+ <Property name="DESTINATION COUNTRY" id="40034" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField34" category="1" displaytype="9000">??_??@KENYA;</Property>
+ <Property name="SPECIAL SERVICE CONDITIONS" id="40035" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField35" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 36" id="40036" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField36" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 49" id="40049" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField49" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 50" id="40050" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField50" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 51" id="40051" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField51" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 52" id="40052" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField52" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 53" id="40053" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField53" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 54" id="40054" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField54" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 55" id="40055" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField55" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 56" id="40056" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField56" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 57" id="40057" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField57" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 58" id="40058" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField58" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 59" id="40059" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField59" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 60" id="40060" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField60" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 61" id="40061" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField61" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 62" id="40062" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField62" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 63" id="40063" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField63" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 64" id="40064" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField64" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 65" id="40065" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField65" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 66" id="40066" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField66" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 67" id="40067" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField67" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 68" id="40068" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField68" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 69" id="40069" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField69" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 70" id="40070" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField70" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 71" id="40071" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField71" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 72" id="40072" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField72" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 73" id="40073" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField73" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 74" id="40074" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField74" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 75" id="40075" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField75" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 76" id="40076" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField76" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 77" id="40077" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField77" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 78" id="40078" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField78" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 79" id="40079" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField79" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 80" id="40080" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField80" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 81" id="40081" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField81" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 82" id="40082" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField82" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 83" id="40083" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField83" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 84" id="40084" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField84" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 85" id="40085" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField85" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 86" id="40086" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField86" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 87" id="40087" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField87" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 88" id="40088" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField88" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 89" id="40089" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField89" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 90" id="40090" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField90" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 91" id="40091" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField91" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 92" id="40092" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField92" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 93" id="40093" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField93" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 94" id="40094" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField94" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 95" id="40095" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField95" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 96" id="40096" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField96" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 97" id="40097" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField97" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 98" id="40098" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField98" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 99" id="40099" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField99" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 100" id="40100" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField100" category="1" displaytype="9000"/>
+ <Property name="ESS.Project.PLC_Wires" id="59985" index="0" type="15" identname="ESS.Project.PLC_Wires" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Controlwires" id="59986" index="0" type="15" identname="ESS.Project.Controlwires" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Protectionwires" id="59987" index="0" type="15" identname="ESS.Project.Protectionwires" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Mainwires" id="59988" index="0" type="15" identname="ESS.Project.Mainwires" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Terminal_4" id="59989" index="0" type="15" identname="ESS.Project.Terminal_4" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Terminal_2" id="59990" index="0" type="15" identname="ESS.Project.Terminal_2" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Cabinet_Protectionclass" id="59991" index="0" type="15" identname="ESS.Project.Cabinet_Protectionclass" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Cabinetcolor" id="59992" index="0" type="15" identname="ESS.Project.Cabinetcolor" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Cabinetbase" id="59993" index="0" type="15" identname="ESS.Project.Cabinetbase" category="1" displaytype="5101"/>
+ <Property name="ESS.Project.Cabinet" id="59994" index="0" type="15" identname="ESS.Project.Cabinet" category="1" displaytype="5101"/>
 </Properties>

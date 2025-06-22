@@ -1,0 +1,1 @@
+on this day, the focus was on the star delta-starter.The sample drawing was discussed .
