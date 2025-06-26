@@ -31,7 +31,65 @@ At this point ,a proposal was made for a sample project. That was inspired by th
    ![mld](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/mld.jpg)
 
 5. **Technical Discussions:** 
-   - Differences between MCB and MCCB
+   
+  - # Differences Between MCB and MCCB
+
+Miniature Circuit Breakers (MCBs) and Molded Case Circuit Breakers (MCCBs) are switches that are widely used across the globe. Their workings are very similar, but they do have several differences.
+
+We shall discuss five major differences between MCB and MCCB.
+
+---
+
+## Difference Between MCB and MCCB
+[Miniature Circuit Breaker](path/to/mcb-image.png)
+*Caption: Example of a Miniature Circuit Breaker (MCB).*
+[Moulded Case Circuit Breaker](path/to/mccb-image.png)
+*Caption: Example of a Moulded Case Circuit Breaker (MCCB).*
+
+| **Point of Difference**       | **MCB**                                                                 | **MCCB**                                                                 |
+|-------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Full Form**                 | Miniature Circuit Breaker                                              | Moulded Case Circuit Breaker                                           |
+| **Definition**                | An automatic electrical switch designed to protect low-voltage circuits and appliances from overcurrent and short circuits | A circuit breaker that protects higher current circuits from electrical overloads and short circuits |
+| **Current Rating**            | Usually up to 125A                                                    | Typically ranges from 16A to 1600A                                     |
+| **Short Circuit Time**        | Faster turn-around time (milliseconds)                                | Slower turn-around time (milliseconds to seconds)                      |
+| **Short Circuit Current Rating** | Lower short circuit current ratings, up to 15kA                     | Higher short circuit current ratings, often up to 100kA                |
+| **Remote Operation**          | Usually not equipped with remote operation capabilities               | May have remote operation options for opening and closing the circuit breaker |
+| **Interrupting Current Rating** | Lower interrupting capacity compared to MCCBs, often up to 1800A      | Higher interrupting capacity, suitable for more demanding applications, often going up to 200kA |
+| **Number of Poles**           | Usually 1, 2, or 3-poles                                              | Typically 3-poles (some models may have 4-poles)                       |
+| **Trip Circuit**              | Fixed tripping circuits                                               | Movable tripping circuits                                              |
+| **Trip Characteristics**      | Fixed, non-adjustable trip characteristics, generally suitable for general-purpose applications | Adjustable or fixed trip characteristics, suitable for various applications and coordination needs |
+| **Applications**              | Residential, commercial, and light industrial applications that require lower current requirements | Industrial, commercial, and heavy-duty applications that require higher current ratings and better protection capabilities |
+
+---
+
+## Key Differences
+
+The maximum current that the MCB and the MCCB can draw without facing a disruption also differs. The current rating of an MCB is **100 amperes**, while an MCCB has a current rating of **between 10 to 200 amperes**.
+
+They have a major difference when it comes to their interrupt rating - the maximum current that a self-operating electrical switch can block without malfunctioning.
+
+An MCCB comes with an interrupt rating between **10k to 200k amperes**, whereas the interrupt rating of an MCB is **up to 1800 amperes**. Therefore, the MCCB is commonly used for industrial purposes like heavy-duty appliances and machinery, while the MCB is best for lower electrical loads and smaller appliances.
+
+The **tripping circuit** is one of the most vital components of self-operating switches. It causes the circuit to break during abnormal operating conditions. An MCB contains a **fixed tripping circuit**, whereas an MCCB has a **movable tripping circuit**.
+
+The **pole** in circuit breakers refers to the number of switching and safety phases it contains to maximize protection. An MCB usually has **1, 2, or 3 poles**, while the MCCB can have **up to 4 poles**. Schneider Electric offers attractive deals on MCCB **100 amp 3 pole price** and MCCB **63 amp 4 pole price**.
+
+---
+
+## Working Mechanism
+
+### MCB
+MCB automatically turns off during abnormal conditions, like electrical surges and extremely high voltage conditions. When the amount of electricity flowing through the live circuit is high, it disconnects the circuit to stop the flow of electricity. It can also detect short circuits and breaks the circuit, thereby stopping an electrical surge to appliances and preventing electrocutions.
+
+### MCCB
+MCCBs, on the other hand, prevent overloading and overheating of the electrical circuit. It contains **bimetallic components** which expand and contract as a response to overloading within a circuit. Under normal conditions, the MCCB allows an open flow of electricity, but an overload in the circuit heats the MCCB. This causes the bimetallic components to prevent the flow of electricity until the overload subsides, allowing the MCCB to cool down.
+
+Unlike MCBs, MCCBs can be remotely operated by shunt wires.
+
+---
+
+
+
    - What makes motors rotate (or not) in two phases
    - Generator ratings in kVA and conversion using [rapid tables](https://www.rapidtables.com/calc/electric/kVA_to_Amp_Calculator.html) 
    - [Summary of key engineering standards](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/tree/main/Resources/Standards_Excerpts)
