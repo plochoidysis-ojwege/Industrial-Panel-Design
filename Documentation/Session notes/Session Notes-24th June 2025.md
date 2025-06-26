@@ -7,11 +7,12 @@ This was the first practical session of the Automatic Pump control. The session 
    - Choosing the right components is essential for the functionality and reliability of the control panel. This includes selecting the correct relays, contactors, sensors, and other necessary components based on the requirements of the automatic pump control system.
 The components had already been discussed in the [last session](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/Session%20notes/Session%20Notes-23rd%20June%202025.md)
 3. **Mounting and wiring of the components:**
+![After Mounting](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/after%20mounting.jpeg)
    - Mounting was the next step after getting the right components. I learnt how to mount the components on the panel. The MCB, relays(TWO) and the terminals were mounted on the panel, ensuring that they are securely fixed and properly aligned for easy access and maintenance as shown in the image below:
  
    The continuity test was performed even before wiring to ensure that all components were functioning correctly and that there were no short circuits or open connections. This step is crucial to avoid potential issues during the operation of the control panel.
-4. **Wiring the components:**
- ![After mounting and wiring](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/just%20after%20wiring.jpeg)
+5. **Wiring the components:**
+ ![After and wiring](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/after%20wiring.jpeg)
    - Proper wiring practices were emphasized to ensure safe and reliable connections between components. This included using the correct wire gauges, color coding, and labeling for easy identification and troubleshooting.
 ![Bottom view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/bottom.jpeg) 
    The correct terminals were used was already discussed in the previous session, so we just had to review it.Below are the terminals used:
