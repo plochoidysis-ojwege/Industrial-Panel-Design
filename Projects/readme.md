@@ -1,18 +1,18 @@
 These are the  projects, through them , I learnt a lot.
-### Project 1: Power Panel Design
-- Description: This project involved the design of a power distribution panel for an industrial application.
+### Project 1: Automatic lighting control(case study-MMU)
+- Description: This project involved the
 - Key Learnings:
-  - Understanding of power distribution systems.
+  - Understanding of.
   - Experience with EPLAN Electric P8 for schematic design.
   - Knowledge of component selection and layout optimization.
 
-### Project 2: PLC Control Design
-- Description: This project focused on the design of a PLC-based control system for a manufacturing process.
+### Project 2: Automatic water pump control
+- Description: This project focused on the 
 - Key Learnings:
   - Familiarity with PLC programming and configuration.
   - Integration of sensors and actuators into the control system.
   - Development of user interfaces for monitoring and control.
-### Practical 1: Assembly Photos
+### Practical 1: The automatic water pump control in real life
 - Description: This practical involved the assembly of various components for an industrial panel.
 - Key Learnings:
   - Hands-on experience with component assembly.
