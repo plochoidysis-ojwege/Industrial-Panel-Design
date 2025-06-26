@@ -11,14 +11,15 @@ The components had already been discussed in the [last session](https://github.c
  
    The continuity test was performed even before wiring to ensure that all components were functioning correctly and that there were no short circuits or open connections. This step is crucial to avoid potential issues during the operation of the control panel.
 4. **Wiring the components:**
-5. ![After mounting and wiring](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/just%20after%20wiring.jpeg)
+ ![After mounting and wiring](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/just%20after%20wiring.jpeg)
    - Proper wiring practices were emphasized to ensure safe and reliable connections between components. This included using the correct wire gauges, color coding, and labeling for easy identification and troubleshooting.
+![Bottom view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/bottom.jpeg) 
    The correct terminals were used was already discussed in the previous session, so we just had to review it.Below are the terminals used:
 Again continuity test was performed after wiring to ensure that all connections were secure and functioning as intended. This step is crucial to avoid potential issues during the operation of the control panel. The NC terminals and NO terminals were used as follows:
+![Terminals connections](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/terminals.jpeg)
    - **NC (Normally Closed) Terminals:** Used for connections that should remain closed until a specific condition is met, such as when the pump is not running.
    - **NO (Normally Open) Terminals:** Used for connections that should remain open until a specific condition is met, such as when the pump is activated.
    - **COM (Common) Terminals:** Used as a common connection point for both NC  and NO terminals, allowing for flexibility in circuit design.
-![Terminals connections](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Projects/Practicals/Practical%201%20-AUTOMATED%20PUMP%20PRACTICAL/Assembly%20Photos%2B%20videos/terminals.jpeg)
    5. **Dead test(no power applied):**
    - A dead test was performed to check the integrity of the wiring and the functionality of the components without applying power to the system. This included verifying the continuity of all connections and ensuring that there were no short circuits or open circuits present.
    ---
