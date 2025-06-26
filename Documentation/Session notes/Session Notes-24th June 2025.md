@@ -5,6 +5,7 @@ This was the first practical session of the Automatic Pump control. The session 
    - As already discussed in this repository, this is a crucial step, designing the layout and circuit diagram helps to visualize the entire system and ensures that all components are properly integrated. This part had already been done in the previous session, so we just had to review it.
 2. **Selecting the appropriate components:**
    - Choosing the right components is essential for the functionality and reliability of the control panel. This includes selecting the correct relays, contactors, sensors, and other necessary components based on the requirements of the automatic pump control system.
+The components had already been discussed in the [last session](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/Session%20notes/Session%20Notes-23rd%20June%202025.md)
 3. **Mounting and wiring of the components:**
    - Mounting was the next step after getting the right components. I learnt how to mount the components on the panel. The MCB, relays(TWO) and the terminals were mounted on the panel, ensuring that they are securely fixed and properly aligned for easy access and maintenance as shown in the image below:
  
