@@ -2,13 +2,18 @@
 it was not a practical session though, it's aim was preparing for the next practical session.various components,concepts and best practises essential for the design and implementation of an automatic pump control system were discussed.
 # key components and there specifications
 1. **JRYELEC MK2P-I Relay:**
+   [Relay](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/relay.jpg)[Back view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/relay%20back%20view.jpg)
    - Type: General Purpose Relay (DPDT-Double Pole Double Throw)
    - Contact Configuration: SPDT (Single Pole Double Throw)
    - Coil Voltage: DC24V
    - Contact Rating: 10A(N.O)/5 A(N.C) at 250V AC/28VDC
    - Function:Switchingpower loads or isolating control signals.
-2. **Switch-mode Power supplies(SMPS):**
+3. **Switch-mode Power supplies(SMPS):**
    - **StarFox 12V 20A (240W) Switching Power Supply**
+     [SMPS](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/StarFox%2012V%2020A%20(240W)%20Switch-Mode%20Power%20Supply%20(SMPS)-back%20view.jpg)
+     [Another view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/StarFox%2012V%2020A%20(240W)%20Switch-Mode%20Power%20Supply%20(SMPS)-front%20view.jpg)
+     [Top view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/StarFox%2012V%2020A%20(240W)%20Switch-Mode%20Power%20Supply%20(SMPS)-top%20view.jpg)
+     [Front view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/StarFox%2012V%2020A%20(240W)%20Switch-Mode%20Power%20Supply%20(SMPS)-front.jpg)
    - Input: Selectable 110V-240V AC (50/60Hz). Critical: Must set selector switch before power on to avoid damage.
    - Output: 12V DC, 20A.
    - Features: Screw terminals (L, N, E, +V, -V), "V ADJ" for fine-tuning output, active cooling fan.
@@ -18,11 +23,13 @@ it was not a practical session though, it's aim was preparing for the next pract
    - Output: 24V DC, 20A.
    - Features: Screw terminals, temperature-controlled cooling fan.
    - General SMPS Importance: High efficiency, compact size, stable DC output, protection features (overload, short-circuit).
-3. **OMIKA UPV-2.5 Terminal Blocks:**
+4. **OMIKA UPV-2.5 Terminal Blocks:**
+   [Terminal blocks](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/terminal%20blocks.jpg)
    - Type: DIN rail mountable, screw-type terminal blocks.
    - Ratings: 750V, 24A, accepts wires up to 2.5mm².
    - Purpose: Provide organized, secure, and insulated connection points for wiring within panels.
-4. **Small Solar Water Pump:**
+5. **Small Solar Water Pump:**
+   [Solar water pump](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/solar%20water%20pump.jpg)
    - Type: DC submersible pump.
    - Operating Voltage: 12V DC.
    - Power Consumption: 8W.
@@ -32,6 +39,8 @@ it was not a practical session though, it's aim was preparing for the next pract
    - Components: Green and Red colored buttons/indicators were observed.
    - Standard Color Coding:
    - Red: Typically signifies STOP, OFF, Emergency Stop, Alarm, Fault, Danger, or Abnormal Condition.
+     [Red](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/RED.jpg)
+     [Red Panel light indicator](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/Panel%20light%20indicator.jpg)
    - Green: Typically signifies START, ON, Run, Normal Operation, Safe, or Ready.
    - (Other colors like Yellow for Caution/Warning, Blue for Specific Status/Mandatory Action, White for General Information).
    - Importance: Ensures intuitive operation, enhances safety, reduces training, and promotes global understanding of machine status/control.
