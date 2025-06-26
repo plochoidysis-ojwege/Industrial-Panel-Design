@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Object identification" id="2000" index="0" type="7">48/14/1/0</Property>
+ <Property name="Object identification" id="2000" index="0" type="7">85/14/1/0</Property>
  <Property name="Last editor: ID" id="3010" index="0" type="7"/>
  <Property name="Last editor: Name" id="3011" index="0" type="7"/>
  <Property name="Last editor: Phone" id="3012" index="0" type="7"/>
@@ -23,16 +23,16 @@
  <Property name="Creator" id="10020" index="0" type="7">USER</Property>
  <Property name="Creation date" id="10021" index="0" type="14">1749667945</Property>
  <Property name="Last editor: Sign-in name" id="10022" index="0" type="7">USER</Property>
- <Property name="Modification date" id="10023" index="0" type="14">1750441154</Property>
+ <Property name="Modification date" id="10023" index="0" type="14">1750930794</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="14">1714577122</Property>
- <Property name="Date" id="10027" index="0" type="14">1750611397</Property>
+ <Property name="Date" id="10027" index="0" type="14">1750931197</Property>
  <Property name="Project start" id="10028" index="0" type="14">1749668040</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Last EPLAN version used" id="10043" index="0" type="7">2022.0.3</Property>
  <Property name="Last EPLAN build number used" id="10044" index="0" type="7">17561</Property>
  <Property name="Project path (full)" id="10045" index="0" type="7">C:\Users\user\Documents\GitHub\Industrial-Panel-Design-Portfolio\Projects\Projects\Project(structure of each)</Property>
  <Property name="Creation time" id="10046" index="0" type="7">9:52:25 PM</Property>
- <Property name="Modification time" id="10047" index="0" type="7">8:39:14 PM</Property>
+ <Property name="Modification time" id="10047" index="0" type="7">12:39:54 PM</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">6:25:22 PM</Property>
  <Property name="Structure format for pages" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Structure format for interruption points" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -41,7 +41,7 @@
  <Property name="Structure format for general devices" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for black boxes" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for PLC / bus technology" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Time of the day" id="10058" index="0" type="14">1750611397</Property>
+ <Property name="Time of the day" id="10058" index="0" type="14">1750931197</Property>
  <Property name="Structure format for terminal strips" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for plugs" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for cables" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
