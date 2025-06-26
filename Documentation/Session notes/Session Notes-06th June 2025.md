@@ -1,4 +1,4 @@
-# Session Notes - 6th September 2025
+# Session Notes - 6th June 2025
 
 ## Overview
 This session focused on wiring color codes, Kenyan electrical standards, and research topics related to cables and permutations.
