@@ -2,6 +2,7 @@
 it was not a practical session though, it's aim was preparing for the next practical session.various components,concepts and best practises essential for the design and implementation of an automatic pump control system were discussed.
 # key components and there specifications
 1. **JRYELEC MK2P-I Relay:**
+   
    [Relay](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/relay.jpg)[Back view](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/relay%20back%20view.jpg)
    - Type: General Purpose Relay (DPDT-Double Pole Double Throw)
    - Contact Configuration: SPDT (Single Pole Double Throw)
