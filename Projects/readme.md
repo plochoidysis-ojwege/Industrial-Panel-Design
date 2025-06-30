@@ -1,3 +1,6 @@
+# NOTE-this is just a placeholder-will get updated soon
+
+
 These are the  projects, through them , I learnt a lot.
 ### Project 1: Automatic lighting control(case study-MMU)
 - Description: This project involved the
