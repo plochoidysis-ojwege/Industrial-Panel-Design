@@ -1,0 +1,1 @@
+On this day , the automatic water level control project was complted and tested .It was a success. The sensors, the pump worked as expected
