@@ -1,4 +1,4 @@
-# Session notes - 17th June 2025
+# Session Notes - 17th June 2025
 (4th virtual)
 ## Overview
 In this session, the focus was on  MLD diagrams.
