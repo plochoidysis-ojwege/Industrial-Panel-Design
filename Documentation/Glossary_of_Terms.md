@@ -19,9 +19,6 @@ Reusable blocks of schematics, panels, or logic in EPLAN that can be inserted in
 - **RCD (Residual Current Device):**  
   A safety device that detects imbalances between live and neutral currents (earth leakage) and disconnects the circuit to prevent electric shocks.
 
-- **PLC (Programmable Logic Controller):**  
-  An industrial computer used to control machinery and processes on production lines, automating operations and improving efficiency.
-
 - **HMI (Human-Machine Interface):**  
   A dashboard or interface that allows operators to interact with and control industrial systems, displaying real-time data and statuses.
 
@@ -68,3 +65,23 @@ Reusable blocks of schematics, panels, or logic in EPLAN that can be inserted in
   Cut-outs or openings in panels/dividers to allow cables to pass through, requiring smooth edges to prevent insulation damage.
 - **Washers (Flat, Spring, Toothed):**
   Various types of washers used to distribute load, prevent loosening, and ensure good electrical contact, especially for grounding.
+ 
+- **PLC (Programmable Logic Controller):**  
+  An industrial digital computer designed for the control and automation of manufacturing processes, such as assembly lines or robotic devices. PLCs are robust, modular, and programmable to handle a wide range of input and output devices.
+
+- **Sourcing (PNP):**  
+  A wiring method where the device provides (sources) current to the load. In a sourcing input, the input terminal supplies positive voltage to the circuit when activated. Commonly used in European and Asian automation systems.
+
+- **Sinking (NPN):**  
+  A wiring method where the device receives (sinks) current from the load. In a sinking input, the input terminal connects to ground (0V) when activated. Commonly used in North American automation systems.
+
+
+- **I/O (Input/Output):**  
+  Refers to the signals or data sent to (input) or received from (output) a PLC or other control device.
+
+- **TIA Portal:**  
+  Siemens’ engineering software platform for configuring, programming, and maintaining automation devices such as PLCs and HMIs.
+
+- **EcoStruxure Control Expert (formerly Unity Pro):**  
+  Schneider Electric’s software for programming and configuring their PLCs.
+
