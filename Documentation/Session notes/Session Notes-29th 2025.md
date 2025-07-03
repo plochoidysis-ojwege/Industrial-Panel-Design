@@ -1,1 +1,2 @@
-
+# Review
+At this point, the level control system was reviewed to ensure the circuitry had been wired correctly and that the components were functioning as intended. The review process included testing the sensors, controllers, and actuators to confirm they responded accurately to changes in water levels. Any discrepancies or issues identified during the review were addressed to ensure the system's reliability and efficiency.
