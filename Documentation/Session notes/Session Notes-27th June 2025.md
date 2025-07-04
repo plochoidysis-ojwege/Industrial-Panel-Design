@@ -48,8 +48,4 @@ https://github.com/user-attachments/assets/a7b050dd-9b44-452a-a016-a6c6c3eaa783
 
 ---
 
-## Diagrams & Media
 
-**[Insert circuit diagrams, wiring schematics, or system layout images here]**
-
-**[Embed or link to session videos and photos
