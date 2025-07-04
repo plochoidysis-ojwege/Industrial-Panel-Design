@@ -58,20 +58,6 @@ Miniature Circuit Breakers (MCBs) and Molded Case Circuit Breakers (MCCBs) are s
 
 ---
 
-## Key Differences
-
-The maximum current that the MCB and the MCCB can draw without facing a disruption also differs. The current rating of an MCB is **100 amperes**, while an MCCB has a current rating of **between 10 to 200 amperes**.
-
-They have a major difference when it comes to their interrupt rating - the maximum current that a self-operating electrical switch can block without malfunctioning.
-
-An MCCB comes with an interrupt rating between **10k to 200k amperes**, whereas the interrupt rating of an MCB is **up to 1800 amperes**. Therefore, the MCCB is commonly used for industrial purposes like heavy-duty appliances and machinery, while the MCB is best for lower electrical loads and smaller appliances.
-
-The **tripping circuit** is one of the most vital components of self-operating switches. It causes the circuit to break during abnormal operating conditions. An MCB contains a **fixed tripping circuit**, whereas an MCCB has a **movable tripping circuit**.
-
-The **pole** in circuit breakers refers to the number of switching and safety phases it contains to maximize protection. An MCB usually has **1, 2, or 3 poles**, while the MCCB can have **up to 4 poles**. Schneider Electric offers attractive deals on MCCB **100 amp 3 pole price** and MCCB **63 amp 4 pole price**.
-
----
-
 ## Working Mechanism
 
 ### MCB
