@@ -34,17 +34,13 @@ At this point ,a proposal was made for a sample project. That was inspired by th
    
   - # Differences Between MCB and MCCB
 
-Miniature Circuit Breakers (MCBs) and Molded Case Circuit Breakers (MCCBs) are switches that are widely used across the globe. Their workings are very similar, but they do have several differences.
-
-We shall discuss five major differences between MCB and MCCB.
+Miniature Circuit Breakers (MCBs) and Molded Case Circuit Breakers (MCCBs) are switches .Their workings are very similar, but they do have several differences.
 
 ---
 
 ## Difference Between MCB and MCCB
-[Miniature Circuit Breaker](path/to/mcb-image.png)
-*Caption: Example of a Miniature Circuit Breaker (MCB).*
-[Moulded Case Circuit Breaker](path/to/mccb-image.png)
-*Caption: Example of a Moulded Case Circuit Breaker (MCCB).*
+![Miniature Circuit Breaker](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/difference%20between%20MCCB%20and%20MCB.webp)
+.*
 
 | **Point of Difference**       | **MCB**                                                                 | **MCCB**                                                                 |
 |-------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
