@@ -17,9 +17,16 @@
 
 ### Project Completion
 - Successful live test marked the completion of the water level control project.
-  [Verification](https://www.youtube.com/shorts/t3JsqotKaQk)
   
+
+https://github.com/user-attachments/assets/a5e6dbc8-a218-4d20-92ca-3cbab4c2bcc0
+
+
 - All design objectives met; system functioned reliably.
+
+
+https://github.com/user-attachments/assets/a7b050dd-9b44-452a-a016-a6c6c3eaa783
+
 
 ---
 
