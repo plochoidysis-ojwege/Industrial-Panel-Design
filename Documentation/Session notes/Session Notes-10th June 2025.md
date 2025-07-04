@@ -35,8 +35,11 @@ This session focused on EPLAN features, project workflows, and practical applica
 ![The general arrangement;the structure of MMU faculty of Engineering](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/MMU%20Faculty%20of%20Engineering%20Structure.png)
 
 ![The power flow diagram](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/MMU%20faculty%20of%20Engineering%20power%20flow%20diagram.png)
-  - The S.L.D
-    
+   - The S.L.D
+    ![The sld diagram](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/Automatic%20lighting%20control-SLD.png)
+- MLD
+  ![MLD](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/M.L.D-automatic%20lighting%20control.png)
+  
 3. **Research Topics:**
    - How much power does a fluorescent tube consume?
    - Power distribution systems and their components.
