@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/a7b050dd-9b44-452a-a016-a6c6c3eaa783
 
 ---
 
-## Next Steps / Action Items
+## Action Items
 - Research Schneider PLC programming software.
 - Organize and archive project documentation (photos/videos).
 - Plan for hands-on PLC programming in future sessions.
