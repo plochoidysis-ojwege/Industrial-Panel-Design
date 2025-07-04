@@ -29,7 +29,14 @@ This session focused on EPLAN features, project workflows, and practical applica
    - **Analysis:**
      - Circuit representation (hand-drawn and CAD).
      - Equipment rating and load analysis.
+   - **The structure and the circuits**
+      - The General arrangement
 
+![The general arrangement;the structure of MMU faculty of Engineering](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/MMU%20Faculty%20of%20Engineering%20Structure.png)
+
+![The power flow diagram](https://github.com/plochoidysis-ojwege/Industrial-Panel-Design/blob/main/Documentation/images%20for%20the%20session%20notes/MMU%20faculty%20of%20Engineering%20power%20flow%20diagram.png)
+  - The S.L.D
+    
 3. **Research Topics:**
    - How much power does a fluorescent tube consume?
    - Power distribution systems and their components.
@@ -37,9 +44,6 @@ This session focused on EPLAN features, project workflows, and practical applica
 ## Action Items
 - Research the power consumption of fluorescent tubes.
 - Explore the use of sensing mechanisms in security lights.
-- Review the provided images for additional context:
-  - ![Lighting Control Panel](./IMG_20250610_133144_camara.jpg)
-  - ![Power Distribution](./IMG_20250610_135217_camara.jpg)
 
 ## References
 - [ABB Product Catalog](https://new.abb.com)
